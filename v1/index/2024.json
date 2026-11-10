@@ -1,0 +1,4773 @@
+{
+  "days": [
+    {
+      "date": "2024-01-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12383",
+        "local_start": "2024-01-01T00:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.090570",
+      "min": {
+        "eur_per_kwh": "0.04417",
+        "local_start": "2024-01-01T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18355",
+        "local_start": "2024-01-02T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.120480",
+      "min": {
+        "eur_per_kwh": "0.0563",
+        "local_start": "2024-01-02T02:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24178",
+        "local_start": "2024-01-03T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.130603",
+      "min": {
+        "eur_per_kwh": "0.0383",
+        "local_start": "2024-01-03T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22177",
+        "local_start": "2024-01-04T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.165836",
+      "min": {
+        "eur_per_kwh": "0.11153",
+        "local_start": "2024-01-04T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19688",
+        "local_start": "2024-01-05T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.143961",
+      "min": {
+        "eur_per_kwh": "0.09057",
+        "local_start": "2024-01-05T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14147",
+        "local_start": "2024-01-06T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.088502",
+      "min": {
+        "eur_per_kwh": "0.03382",
+        "local_start": "2024-01-06T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14984",
+        "local_start": "2024-01-07T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.120920",
+      "min": {
+        "eur_per_kwh": "0.08126",
+        "local_start": "2024-01-07T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24946",
+        "local_start": "2024-01-08T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.178203",
+      "min": {
+        "eur_per_kwh": "0.12281",
+        "local_start": "2024-01-08T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26636",
+        "local_start": "2024-01-09T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.183969",
+      "min": {
+        "eur_per_kwh": "0.13499",
+        "local_start": "2024-01-09T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23588",
+        "local_start": "2024-01-10T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.169901",
+      "min": {
+        "eur_per_kwh": "0.12135",
+        "local_start": "2024-01-10T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25123",
+        "local_start": "2024-01-11T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.167155",
+      "min": {
+        "eur_per_kwh": "0.11614",
+        "local_start": "2024-01-11T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24228",
+        "local_start": "2024-01-12T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.167064",
+      "min": {
+        "eur_per_kwh": "0.11917",
+        "local_start": "2024-01-12T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15067",
+        "local_start": "2024-01-13T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.129281",
+      "min": {
+        "eur_per_kwh": "0.10626",
+        "local_start": "2024-01-13T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13591",
+        "local_start": "2024-01-14T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.119780",
+      "min": {
+        "eur_per_kwh": "0.10026",
+        "local_start": "2024-01-14T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23237",
+        "local_start": "2024-01-15T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.162669",
+      "min": {
+        "eur_per_kwh": "0.10766",
+        "local_start": "2024-01-15T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21568",
+        "local_start": "2024-01-16T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.162362",
+      "min": {
+        "eur_per_kwh": "0.11744",
+        "local_start": "2024-01-16T23:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17529",
+        "local_start": "2024-01-17T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.102074",
+      "min": {
+        "eur_per_kwh": "0.04722",
+        "local_start": "2024-01-17T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2337",
+        "local_start": "2024-01-18T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.123266",
+      "min": {
+        "eur_per_kwh": "0.03783",
+        "local_start": "2024-01-18T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20218",
+        "local_start": "2024-01-19T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.145772",
+      "min": {
+        "eur_per_kwh": "0.09258",
+        "local_start": "2024-01-19T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14401",
+        "local_start": "2024-01-20T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.124718",
+      "min": {
+        "eur_per_kwh": "0.10647",
+        "local_start": "2024-01-20T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1432",
+        "local_start": "2024-01-21T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.108120",
+      "min": {
+        "eur_per_kwh": "0.08358",
+        "local_start": "2024-01-21T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24242",
+        "local_start": "2024-01-22T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.143652",
+      "min": {
+        "eur_per_kwh": "0.06866",
+        "local_start": "2024-01-22T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25207",
+        "local_start": "2024-01-23T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.151083",
+      "min": {
+        "eur_per_kwh": "0.10022",
+        "local_start": "2024-01-23T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27764",
+        "local_start": "2024-01-24T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.154773",
+      "min": {
+        "eur_per_kwh": "0.1121",
+        "local_start": "2024-01-24T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26122",
+        "local_start": "2024-01-25T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.149821",
+      "min": {
+        "eur_per_kwh": "0.09982",
+        "local_start": "2024-01-25T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23264",
+        "local_start": "2024-01-26T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.147645",
+      "min": {
+        "eur_per_kwh": "0.10735",
+        "local_start": "2024-01-26T00:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14251",
+        "local_start": "2024-01-27T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.110637",
+      "min": {
+        "eur_per_kwh": "0.08494",
+        "local_start": "2024-01-27T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.11491",
+        "local_start": "2024-01-28T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.098439",
+      "min": {
+        "eur_per_kwh": "0.07671",
+        "local_start": "2024-01-28T11:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22767",
+        "local_start": "2024-01-29T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.152748",
+      "min": {
+        "eur_per_kwh": "0.08889",
+        "local_start": "2024-01-29T01:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24431",
+        "local_start": "2024-01-30T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.154610",
+      "min": {
+        "eur_per_kwh": "0.10892",
+        "local_start": "2024-01-30T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-01-31",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29742",
+        "local_start": "2024-01-31T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.156106",
+      "min": {
+        "eur_per_kwh": "0.11285",
+        "local_start": "2024-01-31T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21807",
+        "local_start": "2024-02-01T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.144206",
+      "min": {
+        "eur_per_kwh": "0.09795",
+        "local_start": "2024-02-01T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2006",
+        "local_start": "2024-02-02T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.139132",
+      "min": {
+        "eur_per_kwh": "0.0976",
+        "local_start": "2024-02-02T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14076",
+        "local_start": "2024-02-03T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.102391",
+      "min": {
+        "eur_per_kwh": "0.07328",
+        "local_start": "2024-02-03T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1806",
+        "local_start": "2024-02-04T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.108125",
+      "min": {
+        "eur_per_kwh": "0.06516",
+        "local_start": "2024-02-04T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.31144",
+        "local_start": "2024-02-05T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.153023",
+      "min": {
+        "eur_per_kwh": "0.10686",
+        "local_start": "2024-02-05T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20252",
+        "local_start": "2024-02-06T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.146782",
+      "min": {
+        "eur_per_kwh": "0.1097",
+        "local_start": "2024-02-06T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1974",
+        "local_start": "2024-02-07T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.125318",
+      "min": {
+        "eur_per_kwh": "0.06318",
+        "local_start": "2024-02-07T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15952",
+        "local_start": "2024-02-08T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.113869",
+      "min": {
+        "eur_per_kwh": "0.07813",
+        "local_start": "2024-02-08T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18538",
+        "local_start": "2024-02-09T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.114488",
+      "min": {
+        "eur_per_kwh": "0.04079",
+        "local_start": "2024-02-09T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.08407",
+        "local_start": "2024-02-10T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.053120",
+      "min": {
+        "eur_per_kwh": "0.03888",
+        "local_start": "2024-02-10T11:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1279",
+        "local_start": "2024-02-11T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.086924",
+      "min": {
+        "eur_per_kwh": "0.06386",
+        "local_start": "2024-02-11T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20746",
+        "local_start": "2024-02-12T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.119565",
+      "min": {
+        "eur_per_kwh": "0.07677",
+        "local_start": "2024-02-12T07:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21147",
+        "local_start": "2024-02-13T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.136644",
+      "min": {
+        "eur_per_kwh": "0.07997",
+        "local_start": "2024-02-13T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20303",
+        "local_start": "2024-02-14T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.134124",
+      "min": {
+        "eur_per_kwh": "0.1011",
+        "local_start": "2024-02-14T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17984",
+        "local_start": "2024-02-15T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.125900",
+      "min": {
+        "eur_per_kwh": "0.08073",
+        "local_start": "2024-02-15T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19413",
+        "local_start": "2024-02-16T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.128197",
+      "min": {
+        "eur_per_kwh": "0.08625",
+        "local_start": "2024-02-16T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12783",
+        "local_start": "2024-02-17T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.091916",
+      "min": {
+        "eur_per_kwh": "0.06762",
+        "local_start": "2024-02-17T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1098",
+        "local_start": "2024-02-18T00:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.092565",
+      "min": {
+        "eur_per_kwh": "0.069",
+        "local_start": "2024-02-18T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19085",
+        "local_start": "2024-02-19T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.122780",
+      "min": {
+        "eur_per_kwh": "0.09253",
+        "local_start": "2024-02-19T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.31842",
+        "local_start": "2024-02-20T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.127642",
+      "min": {
+        "eur_per_kwh": "0.08369",
+        "local_start": "2024-02-20T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17972",
+        "local_start": "2024-02-21T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.120270",
+      "min": {
+        "eur_per_kwh": "0.09056",
+        "local_start": "2024-02-21T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12811",
+        "local_start": "2024-02-22T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.088221",
+      "min": {
+        "eur_per_kwh": "0.05764",
+        "local_start": "2024-02-22T07:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13452",
+        "local_start": "2024-02-23T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.081880",
+      "min": {
+        "eur_per_kwh": "0.04559",
+        "local_start": "2024-02-23T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07597",
+        "local_start": "2024-02-24T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.049802",
+      "min": {
+        "eur_per_kwh": "0.03994",
+        "local_start": "2024-02-24T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.05511",
+        "local_start": "2024-02-25T09:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.049742",
+      "min": {
+        "eur_per_kwh": "0.0427",
+        "local_start": "2024-02-25T18:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13021",
+        "local_start": "2024-02-26T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.084407",
+      "min": {
+        "eur_per_kwh": "0.04778",
+        "local_start": "2024-02-26T02:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14237",
+        "local_start": "2024-02-27T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.080675",
+      "min": {
+        "eur_per_kwh": "0.04473",
+        "local_start": "2024-02-27T07:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19378",
+        "local_start": "2024-02-28T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.088851",
+      "min": {
+        "eur_per_kwh": "0.04996",
+        "local_start": "2024-02-28T00:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-02-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12277",
+        "local_start": "2024-02-29T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.082111",
+      "min": {
+        "eur_per_kwh": "0.05166",
+        "local_start": "2024-02-29T06:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12787",
+        "local_start": "2024-03-01T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.080048",
+      "min": {
+        "eur_per_kwh": "0.04765",
+        "local_start": "2024-03-01T07:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07511",
+        "local_start": "2024-03-02T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.047345",
+      "min": {
+        "eur_per_kwh": "0.04241",
+        "local_start": "2024-03-02T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07355",
+        "local_start": "2024-03-03T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.048916",
+      "min": {
+        "eur_per_kwh": "0.03848",
+        "local_start": "2024-03-03T18:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14131",
+        "local_start": "2024-03-04T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.085728",
+      "min": {
+        "eur_per_kwh": "0.0516",
+        "local_start": "2024-03-04T06:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25706",
+        "local_start": "2024-03-05T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.106890",
+      "min": {
+        "eur_per_kwh": "0.04278",
+        "local_start": "2024-03-05T01:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24419",
+        "local_start": "2024-03-06T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.117500",
+      "min": {
+        "eur_per_kwh": "0.05869",
+        "local_start": "2024-03-06T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15616",
+        "local_start": "2024-03-07T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.086681",
+      "min": {
+        "eur_per_kwh": "0.04953",
+        "local_start": "2024-03-07T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12515",
+        "local_start": "2024-03-08T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.080805",
+      "min": {
+        "eur_per_kwh": "0.04834",
+        "local_start": "2024-03-08T07:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.04681",
+        "local_start": "2024-03-09T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.044446",
+      "min": {
+        "eur_per_kwh": "0.04194",
+        "local_start": "2024-03-09T23:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.05141",
+        "local_start": "2024-03-10T04:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.047686",
+      "min": {
+        "eur_per_kwh": "0.04091",
+        "local_start": "2024-03-10T23:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21765",
+        "local_start": "2024-03-11T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.093295",
+      "min": {
+        "eur_per_kwh": "0.04455",
+        "local_start": "2024-03-11T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.30982",
+        "local_start": "2024-03-12T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.120075",
+      "min": {
+        "eur_per_kwh": "0.06251",
+        "local_start": "2024-03-12T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26379",
+        "local_start": "2024-03-13T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.119682",
+      "min": {
+        "eur_per_kwh": "0.06369",
+        "local_start": "2024-03-13T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21221",
+        "local_start": "2024-03-14T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.114024",
+      "min": {
+        "eur_per_kwh": "0.06752",
+        "local_start": "2024-03-14T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25358",
+        "local_start": "2024-03-15T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.114061",
+      "min": {
+        "eur_per_kwh": "0.06585",
+        "local_start": "2024-03-15T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13878",
+        "local_start": "2024-03-16T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.080757",
+      "min": {
+        "eur_per_kwh": "0.04278",
+        "local_start": "2024-03-16T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13863",
+        "local_start": "2024-03-17T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.081319",
+      "min": {
+        "eur_per_kwh": "0.04335",
+        "local_start": "2024-03-17T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24785",
+        "local_start": "2024-03-18T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.137357",
+      "min": {
+        "eur_per_kwh": "0.09351",
+        "local_start": "2024-03-18T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25044",
+        "local_start": "2024-03-19T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.138753",
+      "min": {
+        "eur_per_kwh": "0.09561",
+        "local_start": "2024-03-19T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2217",
+        "local_start": "2024-03-20T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.131971",
+      "min": {
+        "eur_per_kwh": "0.08659",
+        "local_start": "2024-03-20T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20906",
+        "local_start": "2024-03-21T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.114665",
+      "min": {
+        "eur_per_kwh": "0.07875",
+        "local_start": "2024-03-21T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18262",
+        "local_start": "2024-03-22T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.104711",
+      "min": {
+        "eur_per_kwh": "0.07103",
+        "local_start": "2024-03-22T02:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.06487",
+        "local_start": "2024-03-23T03:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.055143",
+      "min": {
+        "eur_per_kwh": "0.04576",
+        "local_start": "2024-03-23T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.08823",
+        "local_start": "2024-03-24T23:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.063143",
+      "min": {
+        "eur_per_kwh": "0.04878",
+        "local_start": "2024-03-24T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15434",
+        "local_start": "2024-03-25T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.109131",
+      "min": {
+        "eur_per_kwh": "0.07322",
+        "local_start": "2024-03-25T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13524",
+        "local_start": "2024-03-26T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.085380",
+      "min": {
+        "eur_per_kwh": "0.05175",
+        "local_start": "2024-03-26T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12984",
+        "local_start": "2024-03-27T13:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.085757",
+      "min": {
+        "eur_per_kwh": "0.04926",
+        "local_start": "2024-03-27T01:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12461",
+        "local_start": "2024-03-28T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.084702",
+      "min": {
+        "eur_per_kwh": "0.05277",
+        "local_start": "2024-03-28T07:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14901",
+        "local_start": "2024-03-29T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.091626",
+      "min": {
+        "eur_per_kwh": "0.05815",
+        "local_start": "2024-03-29T01:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07247",
+        "local_start": "2024-03-30T00:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.059718",
+      "min": {
+        "eur_per_kwh": "0.0484",
+        "local_start": "2024-03-30T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-03-31",
+      "hours": 23,
+      "max": {
+        "eur_per_kwh": "0.06861",
+        "local_start": "2024-03-31T06:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.056380",
+      "min": {
+        "eur_per_kwh": "0.04822",
+        "local_start": "2024-03-31T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14284",
+        "local_start": "2024-04-01T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.084344",
+      "min": {
+        "eur_per_kwh": "0.05172",
+        "local_start": "2024-04-01T07:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15753",
+        "local_start": "2024-04-02T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.088101",
+      "min": {
+        "eur_per_kwh": "0.05147",
+        "local_start": "2024-04-02T00:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15843",
+        "local_start": "2024-04-03T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.086065",
+      "min": {
+        "eur_per_kwh": "0.04569",
+        "local_start": "2024-04-03T01:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1462",
+        "local_start": "2024-04-04T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.085443",
+      "min": {
+        "eur_per_kwh": "0.05066",
+        "local_start": "2024-04-04T01:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12064",
+        "local_start": "2024-04-05T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.080244",
+      "min": {
+        "eur_per_kwh": "0.04888",
+        "local_start": "2024-04-05T07:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.05568",
+        "local_start": "2024-04-06T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.047803",
+      "min": {
+        "eur_per_kwh": "0.04413",
+        "local_start": "2024-04-06T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.08516",
+        "local_start": "2024-04-07T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.060320",
+      "min": {
+        "eur_per_kwh": "0.05081",
+        "local_start": "2024-04-07T12:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12551",
+        "local_start": "2024-04-08T18:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.082668",
+      "min": {
+        "eur_per_kwh": "0.04958",
+        "local_start": "2024-04-08T07:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13079",
+        "local_start": "2024-04-09T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.079240",
+      "min": {
+        "eur_per_kwh": "0.0402",
+        "local_start": "2024-04-09T07:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.153",
+        "local_start": "2024-04-10T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.084406",
+      "min": {
+        "eur_per_kwh": "0.05075",
+        "local_start": "2024-04-10T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19419",
+        "local_start": "2024-04-11T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.090140",
+      "min": {
+        "eur_per_kwh": "0.04714",
+        "local_start": "2024-04-11T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19785",
+        "local_start": "2024-04-12T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.098181",
+      "min": {
+        "eur_per_kwh": "0.06112",
+        "local_start": "2024-04-12T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07924",
+        "local_start": "2024-04-13T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.058002",
+      "min": {
+        "eur_per_kwh": "0.04074",
+        "local_start": "2024-04-13T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07576",
+        "local_start": "2024-04-14T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.057438",
+      "min": {
+        "eur_per_kwh": "0.04479",
+        "local_start": "2024-04-14T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14553",
+        "local_start": "2024-04-15T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.091799",
+      "min": {
+        "eur_per_kwh": "0.06397",
+        "local_start": "2024-04-15T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1305",
+        "local_start": "2024-04-16T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.086870",
+      "min": {
+        "eur_per_kwh": "0.05218",
+        "local_start": "2024-04-16T07:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14167",
+        "local_start": "2024-04-17T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.086389",
+      "min": {
+        "eur_per_kwh": "0.0541",
+        "local_start": "2024-04-17T00:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15267",
+        "local_start": "2024-04-18T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.086541",
+      "min": {
+        "eur_per_kwh": "0.05244",
+        "local_start": "2024-04-18T00:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1551",
+        "local_start": "2024-04-19T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.095099",
+      "min": {
+        "eur_per_kwh": "0.0593",
+        "local_start": "2024-04-19T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07656",
+        "local_start": "2024-04-20T00:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.056500",
+      "min": {
+        "eur_per_kwh": "0.04467",
+        "local_start": "2024-04-20T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07683",
+        "local_start": "2024-04-21T07:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.060985",
+      "min": {
+        "eur_per_kwh": "0.04853",
+        "local_start": "2024-04-21T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13741",
+        "local_start": "2024-04-22T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.089115",
+      "min": {
+        "eur_per_kwh": "0.05306",
+        "local_start": "2024-04-22T07:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1599",
+        "local_start": "2024-04-23T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.088381",
+      "min": {
+        "eur_per_kwh": "0.05457",
+        "local_start": "2024-04-23T01:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23063",
+        "local_start": "2024-04-24T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.098328",
+      "min": {
+        "eur_per_kwh": "0.06177",
+        "local_start": "2024-04-24T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23383",
+        "local_start": "2024-04-25T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.116424",
+      "min": {
+        "eur_per_kwh": "0.07185",
+        "local_start": "2024-04-25T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21219",
+        "local_start": "2024-04-26T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.128149",
+      "min": {
+        "eur_per_kwh": "0.07701",
+        "local_start": "2024-04-26T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.11245",
+        "local_start": "2024-04-27T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.069675",
+      "min": {
+        "eur_per_kwh": "0.03791",
+        "local_start": "2024-04-27T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12412",
+        "local_start": "2024-04-28T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.078593",
+      "min": {
+        "eur_per_kwh": "0.04527",
+        "local_start": "2024-04-28T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21008",
+        "local_start": "2024-04-29T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.129031",
+      "min": {
+        "eur_per_kwh": "0.09275",
+        "local_start": "2024-04-29T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-04-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1948",
+        "local_start": "2024-04-30T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.123201",
+      "min": {
+        "eur_per_kwh": "0.0755",
+        "local_start": "2024-04-30T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.08937",
+        "local_start": "2024-05-01T01:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.061579",
+      "min": {
+        "eur_per_kwh": "0.03824",
+        "local_start": "2024-05-01T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1798",
+        "local_start": "2024-05-02T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.096363",
+      "min": {
+        "eur_per_kwh": "0.06503",
+        "local_start": "2024-05-02T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18619",
+        "local_start": "2024-05-03T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.102011",
+      "min": {
+        "eur_per_kwh": "0.06697",
+        "local_start": "2024-05-03T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.08434",
+        "local_start": "2024-05-04T01:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.063053",
+      "min": {
+        "eur_per_kwh": "0.04645",
+        "local_start": "2024-05-04T18:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.09811",
+        "local_start": "2024-05-05T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.068661",
+      "min": {
+        "eur_per_kwh": "0.04383",
+        "local_start": "2024-05-05T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21474",
+        "local_start": "2024-05-06T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.123092",
+      "min": {
+        "eur_per_kwh": "0.06883",
+        "local_start": "2024-05-06T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18417",
+        "local_start": "2024-05-07T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.117518",
+      "min": {
+        "eur_per_kwh": "0.06386",
+        "local_start": "2024-05-07T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18678",
+        "local_start": "2024-05-08T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.101510",
+      "min": {
+        "eur_per_kwh": "0.06618",
+        "local_start": "2024-05-08T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22724",
+        "local_start": "2024-05-09T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.108069",
+      "min": {
+        "eur_per_kwh": "0.06112",
+        "local_start": "2024-05-09T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1962",
+        "local_start": "2024-05-10T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.105706",
+      "min": {
+        "eur_per_kwh": "0.06406",
+        "local_start": "2024-05-10T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.0894",
+        "local_start": "2024-05-11T05:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.068842",
+      "min": {
+        "eur_per_kwh": "0.04255",
+        "local_start": "2024-05-11T11:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.10808",
+        "local_start": "2024-05-12T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.073033",
+      "min": {
+        "eur_per_kwh": "0.0424",
+        "local_start": "2024-05-12T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15462",
+        "local_start": "2024-05-13T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.105033",
+      "min": {
+        "eur_per_kwh": "0.06384",
+        "local_start": "2024-05-13T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1546",
+        "local_start": "2024-05-14T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.089200",
+      "min": {
+        "eur_per_kwh": "0.05138",
+        "local_start": "2024-05-14T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16298",
+        "local_start": "2024-05-15T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.094676",
+      "min": {
+        "eur_per_kwh": "0.06072",
+        "local_start": "2024-05-15T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24646",
+        "local_start": "2024-05-16T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.110310",
+      "min": {
+        "eur_per_kwh": "0.06524",
+        "local_start": "2024-05-16T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19615",
+        "local_start": "2024-05-17T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.124244",
+      "min": {
+        "eur_per_kwh": "0.06933",
+        "local_start": "2024-05-17T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12084",
+        "local_start": "2024-05-18T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.078796",
+      "min": {
+        "eur_per_kwh": "0.03658",
+        "local_start": "2024-05-18T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.11631",
+        "local_start": "2024-05-19T07:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.079967",
+      "min": {
+        "eur_per_kwh": "0.04441",
+        "local_start": "2024-05-19T11:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17534",
+        "local_start": "2024-05-20T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.112499",
+      "min": {
+        "eur_per_kwh": "0.06473",
+        "local_start": "2024-05-20T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18031",
+        "local_start": "2024-05-21T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.119592",
+      "min": {
+        "eur_per_kwh": "0.0695",
+        "local_start": "2024-05-21T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18929",
+        "local_start": "2024-05-22T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.116568",
+      "min": {
+        "eur_per_kwh": "0.06062",
+        "local_start": "2024-05-22T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20322",
+        "local_start": "2024-05-23T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.130622",
+      "min": {
+        "eur_per_kwh": "0.08133",
+        "local_start": "2024-05-23T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2289",
+        "local_start": "2024-05-24T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.139744",
+      "min": {
+        "eur_per_kwh": "0.08869",
+        "local_start": "2024-05-24T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1493",
+        "local_start": "2024-05-25T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.090231",
+      "min": {
+        "eur_per_kwh": "0.03478",
+        "local_start": "2024-05-25T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12093",
+        "local_start": "2024-05-26T05:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.078318",
+      "min": {
+        "eur_per_kwh": "0.0412",
+        "local_start": "2024-05-26T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17384",
+        "local_start": "2024-05-27T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.113269",
+      "min": {
+        "eur_per_kwh": "0.07228",
+        "local_start": "2024-05-27T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19317",
+        "local_start": "2024-05-28T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.106510",
+      "min": {
+        "eur_per_kwh": "0.06372",
+        "local_start": "2024-05-28T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18285",
+        "local_start": "2024-05-29T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.114898",
+      "min": {
+        "eur_per_kwh": "0.07657",
+        "local_start": "2024-05-29T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16153",
+        "local_start": "2024-05-30T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.106379",
+      "min": {
+        "eur_per_kwh": "0.06937",
+        "local_start": "2024-05-30T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-05-31",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13176",
+        "local_start": "2024-05-31T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.089463",
+      "min": {
+        "eur_per_kwh": "0.05656",
+        "local_start": "2024-05-31T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.05919",
+        "local_start": "2024-06-01T18:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.054131",
+      "min": {
+        "eur_per_kwh": "0.049",
+        "local_start": "2024-06-01T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.07855",
+        "local_start": "2024-06-02T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.056127",
+      "min": {
+        "eur_per_kwh": "0.04232",
+        "local_start": "2024-06-02T10:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22361",
+        "local_start": "2024-06-03T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.106829",
+      "min": {
+        "eur_per_kwh": "0.05558",
+        "local_start": "2024-06-03T00:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2845",
+        "local_start": "2024-06-04T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.150263",
+      "min": {
+        "eur_per_kwh": "0.07368",
+        "local_start": "2024-06-04T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28759",
+        "local_start": "2024-06-05T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.163969",
+      "min": {
+        "eur_per_kwh": "0.07851",
+        "local_start": "2024-06-05T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22643",
+        "local_start": "2024-06-06T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.154744",
+      "min": {
+        "eur_per_kwh": "0.10315",
+        "local_start": "2024-06-06T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20764",
+        "local_start": "2024-06-07T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.142207",
+      "min": {
+        "eur_per_kwh": "0.08666",
+        "local_start": "2024-06-07T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14227",
+        "local_start": "2024-06-08T07:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.105548",
+      "min": {
+        "eur_per_kwh": "0.0549",
+        "local_start": "2024-06-08T17:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.12266",
+        "local_start": "2024-06-09T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.069432",
+      "min": {
+        "eur_per_kwh": "0.04247",
+        "local_start": "2024-06-09T10:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20672",
+        "local_start": "2024-06-10T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.119852",
+      "min": {
+        "eur_per_kwh": "0.07943",
+        "local_start": "2024-06-10T01:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19803",
+        "local_start": "2024-06-11T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.136578",
+      "min": {
+        "eur_per_kwh": "0.08943",
+        "local_start": "2024-06-11T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2178",
+        "local_start": "2024-06-12T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.126574",
+      "min": {
+        "eur_per_kwh": "0.06759",
+        "local_start": "2024-06-12T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22414",
+        "local_start": "2024-06-13T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.135638",
+      "min": {
+        "eur_per_kwh": "0.05311",
+        "local_start": "2024-06-13T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1918",
+        "local_start": "2024-06-14T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.117717",
+      "min": {
+        "eur_per_kwh": "0.05871",
+        "local_start": "2024-06-14T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.0949",
+        "local_start": "2024-06-15T07:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.067068",
+      "min": {
+        "eur_per_kwh": "0.04038",
+        "local_start": "2024-06-15T11:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.09169",
+        "local_start": "2024-06-16T05:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.066384",
+      "min": {
+        "eur_per_kwh": "0.04128",
+        "local_start": "2024-06-16T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19132",
+        "local_start": "2024-06-17T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.106715",
+      "min": {
+        "eur_per_kwh": "0.06309",
+        "local_start": "2024-06-17T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24102",
+        "local_start": "2024-06-18T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.127049",
+      "min": {
+        "eur_per_kwh": "0.06379",
+        "local_start": "2024-06-18T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.225",
+        "local_start": "2024-06-19T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.148273",
+      "min": {
+        "eur_per_kwh": "0.08544",
+        "local_start": "2024-06-19T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22696",
+        "local_start": "2024-06-20T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.151884",
+      "min": {
+        "eur_per_kwh": "0.11003",
+        "local_start": "2024-06-20T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22088",
+        "local_start": "2024-06-21T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.148914",
+      "min": {
+        "eur_per_kwh": "0.08698",
+        "local_start": "2024-06-21T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14394",
+        "local_start": "2024-06-22T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.084752",
+      "min": {
+        "eur_per_kwh": "0.03629",
+        "local_start": "2024-06-22T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1427",
+        "local_start": "2024-06-23T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.077199",
+      "min": {
+        "eur_per_kwh": "0.04138",
+        "local_start": "2024-06-23T11:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23549",
+        "local_start": "2024-06-24T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.114671",
+      "min": {
+        "eur_per_kwh": "0.06013",
+        "local_start": "2024-06-24T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2261",
+        "local_start": "2024-06-25T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.135295",
+      "min": {
+        "eur_per_kwh": "0.08563",
+        "local_start": "2024-06-25T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24424",
+        "local_start": "2024-06-26T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.157591",
+      "min": {
+        "eur_per_kwh": "0.10301",
+        "local_start": "2024-06-26T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22254",
+        "local_start": "2024-06-27T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.150606",
+      "min": {
+        "eur_per_kwh": "0.08754",
+        "local_start": "2024-06-27T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21081",
+        "local_start": "2024-06-28T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.146839",
+      "min": {
+        "eur_per_kwh": "0.08149",
+        "local_start": "2024-06-28T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14899",
+        "local_start": "2024-06-29T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.090110",
+      "min": {
+        "eur_per_kwh": "0.03233",
+        "local_start": "2024-06-29T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-06-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14892",
+        "local_start": "2024-06-30T03:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.097670",
+      "min": {
+        "eur_per_kwh": "0.03045",
+        "local_start": "2024-06-30T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20202",
+        "local_start": "2024-07-01T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.132186",
+      "min": {
+        "eur_per_kwh": "0.07665",
+        "local_start": "2024-07-01T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23318",
+        "local_start": "2024-07-02T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.125307",
+      "min": {
+        "eur_per_kwh": "0.06892",
+        "local_start": "2024-07-02T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22541",
+        "local_start": "2024-07-03T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.135935",
+      "min": {
+        "eur_per_kwh": "0.06364",
+        "local_start": "2024-07-03T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21852",
+        "local_start": "2024-07-04T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.125499",
+      "min": {
+        "eur_per_kwh": "0.05464",
+        "local_start": "2024-07-04T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20922",
+        "local_start": "2024-07-05T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.130372",
+      "min": {
+        "eur_per_kwh": "0.05285",
+        "local_start": "2024-07-05T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15401",
+        "local_start": "2024-07-06T00:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.080576",
+      "min": {
+        "eur_per_kwh": "0.03661",
+        "local_start": "2024-07-06T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15777",
+        "local_start": "2024-07-07T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.083942",
+      "min": {
+        "eur_per_kwh": "0.04041",
+        "local_start": "2024-07-07T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23112",
+        "local_start": "2024-07-08T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.144598",
+      "min": {
+        "eur_per_kwh": "0.08606",
+        "local_start": "2024-07-08T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23472",
+        "local_start": "2024-07-09T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.138259",
+      "min": {
+        "eur_per_kwh": "0.05665",
+        "local_start": "2024-07-09T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22816",
+        "local_start": "2024-07-10T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.150917",
+      "min": {
+        "eur_per_kwh": "0.09317",
+        "local_start": "2024-07-10T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21578",
+        "local_start": "2024-07-11T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.149544",
+      "min": {
+        "eur_per_kwh": "0.10108",
+        "local_start": "2024-07-11T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20441",
+        "local_start": "2024-07-12T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.128809",
+      "min": {
+        "eur_per_kwh": "0.08062",
+        "local_start": "2024-07-12T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15917",
+        "local_start": "2024-07-13T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.091144",
+      "min": {
+        "eur_per_kwh": "0.02857",
+        "local_start": "2024-07-13T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15782",
+        "local_start": "2024-07-14T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.092681",
+      "min": {
+        "eur_per_kwh": "0.0281",
+        "local_start": "2024-07-14T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22746",
+        "local_start": "2024-07-15T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.127879",
+      "min": {
+        "eur_per_kwh": "0.05891",
+        "local_start": "2024-07-15T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23505",
+        "local_start": "2024-07-16T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.153871",
+      "min": {
+        "eur_per_kwh": "0.11187",
+        "local_start": "2024-07-16T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23187",
+        "local_start": "2024-07-17T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.156966",
+      "min": {
+        "eur_per_kwh": "0.12023",
+        "local_start": "2024-07-17T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24523",
+        "local_start": "2024-07-18T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.162102",
+      "min": {
+        "eur_per_kwh": "0.12328",
+        "local_start": "2024-07-18T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22747",
+        "local_start": "2024-07-19T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.159270",
+      "min": {
+        "eur_per_kwh": "0.11759",
+        "local_start": "2024-07-19T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14602",
+        "local_start": "2024-07-20T02:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.091316",
+      "min": {
+        "eur_per_kwh": "0.02781",
+        "local_start": "2024-07-20T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15132",
+        "local_start": "2024-07-21T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.077727",
+      "min": {
+        "eur_per_kwh": "0.03844",
+        "local_start": "2024-07-21T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24554",
+        "local_start": "2024-07-22T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.145135",
+      "min": {
+        "eur_per_kwh": "0.10871",
+        "local_start": "2024-07-22T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22946",
+        "local_start": "2024-07-23T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.154434",
+      "min": {
+        "eur_per_kwh": "0.12201",
+        "local_start": "2024-07-23T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2302",
+        "local_start": "2024-07-24T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.156416",
+      "min": {
+        "eur_per_kwh": "0.12607",
+        "local_start": "2024-07-24T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22553",
+        "local_start": "2024-07-25T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.151943",
+      "min": {
+        "eur_per_kwh": "0.10832",
+        "local_start": "2024-07-25T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.231",
+        "local_start": "2024-07-26T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.157088",
+      "min": {
+        "eur_per_kwh": "0.12152",
+        "local_start": "2024-07-26T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16348",
+        "local_start": "2024-07-27T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.110046",
+      "min": {
+        "eur_per_kwh": "0.03623",
+        "local_start": "2024-07-27T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17109",
+        "local_start": "2024-07-28T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.098849",
+      "min": {
+        "eur_per_kwh": "0.0231",
+        "local_start": "2024-07-28T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2396",
+        "local_start": "2024-07-29T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.168495",
+      "min": {
+        "eur_per_kwh": "0.13308",
+        "local_start": "2024-07-29T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25301",
+        "local_start": "2024-07-30T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.161534",
+      "min": {
+        "eur_per_kwh": "0.11362",
+        "local_start": "2024-07-30T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-07-31",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25128",
+        "local_start": "2024-07-31T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.167220",
+      "min": {
+        "eur_per_kwh": "0.12978",
+        "local_start": "2024-07-31T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24094",
+        "local_start": "2024-08-01T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.168725",
+      "min": {
+        "eur_per_kwh": "0.13182",
+        "local_start": "2024-08-01T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24133",
+        "local_start": "2024-08-02T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.158267",
+      "min": {
+        "eur_per_kwh": "0.10133",
+        "local_start": "2024-08-02T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18483",
+        "local_start": "2024-08-03T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.112363",
+      "min": {
+        "eur_per_kwh": "0.02563",
+        "local_start": "2024-08-03T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19262",
+        "local_start": "2024-08-04T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.110824",
+      "min": {
+        "eur_per_kwh": "0.02139",
+        "local_start": "2024-08-04T12:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26168",
+        "local_start": "2024-08-05T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.172336",
+      "min": {
+        "eur_per_kwh": "0.12959",
+        "local_start": "2024-08-05T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24265",
+        "local_start": "2024-08-06T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.168200",
+      "min": {
+        "eur_per_kwh": "0.12857",
+        "local_start": "2024-08-06T02:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24089",
+        "local_start": "2024-08-07T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.161811",
+      "min": {
+        "eur_per_kwh": "0.12572",
+        "local_start": "2024-08-07T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25133",
+        "local_start": "2024-08-08T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.164005",
+      "min": {
+        "eur_per_kwh": "0.12778",
+        "local_start": "2024-08-08T02:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23941",
+        "local_start": "2024-08-09T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.165620",
+      "min": {
+        "eur_per_kwh": "0.13017",
+        "local_start": "2024-08-09T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17175",
+        "local_start": "2024-08-10T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.104908",
+      "min": {
+        "eur_per_kwh": "0.02052",
+        "local_start": "2024-08-10T11:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18489",
+        "local_start": "2024-08-11T22:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.106809",
+      "min": {
+        "eur_per_kwh": "0.02467",
+        "local_start": "2024-08-11T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24853",
+        "local_start": "2024-08-12T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.169099",
+      "min": {
+        "eur_per_kwh": "0.12972",
+        "local_start": "2024-08-12T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24012",
+        "local_start": "2024-08-13T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.168912",
+      "min": {
+        "eur_per_kwh": "0.12976",
+        "local_start": "2024-08-13T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23159",
+        "local_start": "2024-08-14T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.157750",
+      "min": {
+        "eur_per_kwh": "0.11688",
+        "local_start": "2024-08-14T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17814",
+        "local_start": "2024-08-15T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.091768",
+      "min": {
+        "eur_per_kwh": "0.03368",
+        "local_start": "2024-08-15T10:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24773",
+        "local_start": "2024-08-16T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.156602",
+      "min": {
+        "eur_per_kwh": "0.10286",
+        "local_start": "2024-08-16T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16508",
+        "local_start": "2024-08-17T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.120032",
+      "min": {
+        "eur_per_kwh": "0.06101",
+        "local_start": "2024-08-17T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17122",
+        "local_start": "2024-08-18T00:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.099686",
+      "min": {
+        "eur_per_kwh": "0.03294",
+        "local_start": "2024-08-18T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27284",
+        "local_start": "2024-08-19T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.160098",
+      "min": {
+        "eur_per_kwh": "0.11185",
+        "local_start": "2024-08-19T02:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23621",
+        "local_start": "2024-08-20T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.159898",
+      "min": {
+        "eur_per_kwh": "0.10545",
+        "local_start": "2024-08-20T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2867",
+        "local_start": "2024-08-21T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.147499",
+      "min": {
+        "eur_per_kwh": "0.09517",
+        "local_start": "2024-08-21T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2765",
+        "local_start": "2024-08-22T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.170618",
+      "min": {
+        "eur_per_kwh": "0.12651",
+        "local_start": "2024-08-22T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25344",
+        "local_start": "2024-08-23T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.169862",
+      "min": {
+        "eur_per_kwh": "0.12663",
+        "local_start": "2024-08-23T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.169",
+        "local_start": "2024-08-24T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.096679",
+      "min": {
+        "eur_per_kwh": "0.02207",
+        "local_start": "2024-08-24T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16786",
+        "local_start": "2024-08-25T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.075037",
+      "min": {
+        "eur_per_kwh": "0.03108",
+        "local_start": "2024-08-25T11:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27743",
+        "local_start": "2024-08-26T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.159985",
+      "min": {
+        "eur_per_kwh": "0.10943",
+        "local_start": "2024-08-26T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26451",
+        "local_start": "2024-08-27T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.168650",
+      "min": {
+        "eur_per_kwh": "0.1228",
+        "local_start": "2024-08-27T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24928",
+        "local_start": "2024-08-28T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.170362",
+      "min": {
+        "eur_per_kwh": "0.12246",
+        "local_start": "2024-08-28T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24219",
+        "local_start": "2024-08-29T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.178832",
+      "min": {
+        "eur_per_kwh": "0.14215",
+        "local_start": "2024-08-29T02:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24816",
+        "local_start": "2024-08-30T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.175871",
+      "min": {
+        "eur_per_kwh": "0.13707",
+        "local_start": "2024-08-30T02:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-08-31",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1929",
+        "local_start": "2024-08-31T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.145090",
+      "min": {
+        "eur_per_kwh": "0.10558",
+        "local_start": "2024-08-31T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18153",
+        "local_start": "2024-09-01T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.132394",
+      "min": {
+        "eur_per_kwh": "0.05033",
+        "local_start": "2024-09-01T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24486",
+        "local_start": "2024-09-02T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.177562",
+      "min": {
+        "eur_per_kwh": "0.13716",
+        "local_start": "2024-09-02T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23831",
+        "local_start": "2024-09-03T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.170574",
+      "min": {
+        "eur_per_kwh": "0.13353",
+        "local_start": "2024-09-03T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23619",
+        "local_start": "2024-09-04T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.163286",
+      "min": {
+        "eur_per_kwh": "0.10632",
+        "local_start": "2024-09-04T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2402",
+        "local_start": "2024-09-05T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.166940",
+      "min": {
+        "eur_per_kwh": "0.12702",
+        "local_start": "2024-09-05T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22942",
+        "local_start": "2024-09-06T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.153184",
+      "min": {
+        "eur_per_kwh": "0.06782",
+        "local_start": "2024-09-06T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19436",
+        "local_start": "2024-09-07T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.113636",
+      "min": {
+        "eur_per_kwh": "0.01954",
+        "local_start": "2024-09-07T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16526",
+        "local_start": "2024-09-08T00:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.106930",
+      "min": {
+        "eur_per_kwh": "0.02737",
+        "local_start": "2024-09-08T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24473",
+        "local_start": "2024-09-09T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.153558",
+      "min": {
+        "eur_per_kwh": "0.05329",
+        "local_start": "2024-09-09T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22897",
+        "local_start": "2024-09-10T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.145310",
+      "min": {
+        "eur_per_kwh": "0.05286",
+        "local_start": "2024-09-10T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23018",
+        "local_start": "2024-09-11T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.147885",
+      "min": {
+        "eur_per_kwh": "0.06657",
+        "local_start": "2024-09-11T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21881",
+        "local_start": "2024-09-12T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.143778",
+      "min": {
+        "eur_per_kwh": "0.05455",
+        "local_start": "2024-09-12T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2126",
+        "local_start": "2024-09-13T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.123626",
+      "min": {
+        "eur_per_kwh": "0.05981",
+        "local_start": "2024-09-13T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15565",
+        "local_start": "2024-09-14T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.087914",
+      "min": {
+        "eur_per_kwh": "0.03363",
+        "local_start": "2024-09-14T12:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.11545",
+        "local_start": "2024-09-15T01:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.082016",
+      "min": {
+        "eur_per_kwh": "0.04114",
+        "local_start": "2024-09-15T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2165",
+        "local_start": "2024-09-16T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.111635",
+      "min": {
+        "eur_per_kwh": "0.05932",
+        "local_start": "2024-09-16T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2253",
+        "local_start": "2024-09-17T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.108191",
+      "min": {
+        "eur_per_kwh": "0.05341",
+        "local_start": "2024-09-17T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26053",
+        "local_start": "2024-09-18T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.157300",
+      "min": {
+        "eur_per_kwh": "0.1",
+        "local_start": "2024-09-18T00:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26314",
+        "local_start": "2024-09-19T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.166325",
+      "min": {
+        "eur_per_kwh": "0.11901",
+        "local_start": "2024-09-19T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25371",
+        "local_start": "2024-09-20T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.167290",
+      "min": {
+        "eur_per_kwh": "0.11918",
+        "local_start": "2024-09-20T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17312",
+        "local_start": "2024-09-21T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.118762",
+      "min": {
+        "eur_per_kwh": "0.02286",
+        "local_start": "2024-09-21T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23269",
+        "local_start": "2024-09-22T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.114286",
+      "min": {
+        "eur_per_kwh": "0.02844",
+        "local_start": "2024-09-22T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27102",
+        "local_start": "2024-09-23T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.157128",
+      "min": {
+        "eur_per_kwh": "0.06678",
+        "local_start": "2024-09-23T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24953",
+        "local_start": "2024-09-24T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.161089",
+      "min": {
+        "eur_per_kwh": "0.10679",
+        "local_start": "2024-09-24T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19247",
+        "local_start": "2024-09-25T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.133595",
+      "min": {
+        "eur_per_kwh": "0.0757",
+        "local_start": "2024-09-25T16:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.204",
+        "local_start": "2024-09-26T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.110011",
+      "min": {
+        "eur_per_kwh": "0.05648",
+        "local_start": "2024-09-26T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24295",
+        "local_start": "2024-09-27T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.109405",
+      "min": {
+        "eur_per_kwh": "0.05349",
+        "local_start": "2024-09-27T01:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17139",
+        "local_start": "2024-09-28T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.092127",
+      "min": {
+        "eur_per_kwh": "0.03333",
+        "local_start": "2024-09-28T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14914",
+        "local_start": "2024-09-29T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.091700",
+      "min": {
+        "eur_per_kwh": "0.03764",
+        "local_start": "2024-09-29T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-09-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29431",
+        "local_start": "2024-09-30T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.154830",
+      "min": {
+        "eur_per_kwh": "0.04659",
+        "local_start": "2024-09-30T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29394",
+        "local_start": "2024-10-01T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.167457",
+      "min": {
+        "eur_per_kwh": "0.10914",
+        "local_start": "2024-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22824",
+        "local_start": "2024-10-02T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.164213",
+      "min": {
+        "eur_per_kwh": "0.1214",
+        "local_start": "2024-10-02T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25638",
+        "local_start": "2024-10-03T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.136295",
+      "min": {
+        "eur_per_kwh": "0.05275",
+        "local_start": "2024-10-03T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26276",
+        "local_start": "2024-10-04T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.166388",
+      "min": {
+        "eur_per_kwh": "0.09937",
+        "local_start": "2024-10-04T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15668",
+        "local_start": "2024-10-05T08:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.102613",
+      "min": {
+        "eur_per_kwh": "0.02977",
+        "local_start": "2024-10-05T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14162",
+        "local_start": "2024-10-06T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.075752",
+      "min": {
+        "eur_per_kwh": "0.04216",
+        "local_start": "2024-10-06T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20565",
+        "local_start": "2024-10-07T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.134942",
+      "min": {
+        "eur_per_kwh": "0.07872",
+        "local_start": "2024-10-07T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22262",
+        "local_start": "2024-10-08T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.114728",
+      "min": {
+        "eur_per_kwh": "0.05331",
+        "local_start": "2024-10-08T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18886",
+        "local_start": "2024-10-09T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.113387",
+      "min": {
+        "eur_per_kwh": "0.06439",
+        "local_start": "2024-10-09T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.30683",
+        "local_start": "2024-10-10T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.148314",
+      "min": {
+        "eur_per_kwh": "0.07551",
+        "local_start": "2024-10-10T00:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22621",
+        "local_start": "2024-10-11T08:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.159593",
+      "min": {
+        "eur_per_kwh": "0.11661",
+        "local_start": "2024-10-11T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16422",
+        "local_start": "2024-10-12T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.110617",
+      "min": {
+        "eur_per_kwh": "0.07758",
+        "local_start": "2024-10-12T03:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17142",
+        "local_start": "2024-10-13T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.102067",
+      "min": {
+        "eur_per_kwh": "0.03736",
+        "local_start": "2024-10-13T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29471",
+        "local_start": "2024-10-14T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.171436",
+      "min": {
+        "eur_per_kwh": "0.12169",
+        "local_start": "2024-10-14T01:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23923",
+        "local_start": "2024-10-15T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.157462",
+      "min": {
+        "eur_per_kwh": "0.10655",
+        "local_start": "2024-10-15T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23629",
+        "local_start": "2024-10-16T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.126415",
+      "min": {
+        "eur_per_kwh": "0.06567",
+        "local_start": "2024-10-16T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2053",
+        "local_start": "2024-10-17T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.129728",
+      "min": {
+        "eur_per_kwh": "0.06303",
+        "local_start": "2024-10-17T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23951",
+        "local_start": "2024-10-18T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.131558",
+      "min": {
+        "eur_per_kwh": "0.06438",
+        "local_start": "2024-10-18T14:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14187",
+        "local_start": "2024-10-19T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.098653",
+      "min": {
+        "eur_per_kwh": "0.0406",
+        "local_start": "2024-10-19T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17947",
+        "local_start": "2024-10-20T21:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.098310",
+      "min": {
+        "eur_per_kwh": "0.03483",
+        "local_start": "2024-10-20T13:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.30439",
+        "local_start": "2024-10-21T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.165502",
+      "min": {
+        "eur_per_kwh": "0.10922",
+        "local_start": "2024-10-21T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24758",
+        "local_start": "2024-10-22T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.153822",
+      "min": {
+        "eur_per_kwh": "0.1053",
+        "local_start": "2024-10-22T04:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28002",
+        "local_start": "2024-10-23T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.156491",
+      "min": {
+        "eur_per_kwh": "0.10014",
+        "local_start": "2024-10-23T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22934",
+        "local_start": "2024-10-24T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.145864",
+      "min": {
+        "eur_per_kwh": "0.08479",
+        "local_start": "2024-10-24T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22527",
+        "local_start": "2024-10-25T20:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.140274",
+      "min": {
+        "eur_per_kwh": "0.08698",
+        "local_start": "2024-10-25T05:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14378",
+        "local_start": "2024-10-26T19:00:00+02:00"
+      },
+      "mean_eur_per_kwh": "0.097199",
+      "min": {
+        "eur_per_kwh": "0.04255",
+        "local_start": "2024-10-26T15:00:00+02:00"
+      }
+    },
+    {
+      "date": "2024-10-27",
+      "hours": 25,
+      "max": {
+        "eur_per_kwh": "0.17513",
+        "local_start": "2024-10-27T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.122944",
+      "min": {
+        "eur_per_kwh": "0.07532",
+        "local_start": "2024-10-27T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-10-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27562",
+        "local_start": "2024-10-28T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.153320",
+      "min": {
+        "eur_per_kwh": "0.09678",
+        "local_start": "2024-10-28T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-10-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21554",
+        "local_start": "2024-10-29T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.148409",
+      "min": {
+        "eur_per_kwh": "0.09026",
+        "local_start": "2024-10-29T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-10-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26681",
+        "local_start": "2024-10-30T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.156395",
+      "min": {
+        "eur_per_kwh": "0.07972",
+        "local_start": "2024-10-30T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-10-31",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26532",
+        "local_start": "2024-10-31T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.172954",
+      "min": {
+        "eur_per_kwh": "0.10918",
+        "local_start": "2024-10-31T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16987",
+        "local_start": "2024-11-01T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.124947",
+      "min": {
+        "eur_per_kwh": "0.08288",
+        "local_start": "2024-11-01T11:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.15634",
+        "local_start": "2024-11-02T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.136030",
+      "min": {
+        "eur_per_kwh": "0.10454",
+        "local_start": "2024-11-02T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.16412",
+        "local_start": "2024-11-03T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.121004",
+      "min": {
+        "eur_per_kwh": "0.04021",
+        "local_start": "2024-11-03T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27808",
+        "local_start": "2024-11-04T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.180841",
+      "min": {
+        "eur_per_kwh": "0.13875",
+        "local_start": "2024-11-04T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.31254",
+        "local_start": "2024-11-05T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.183337",
+      "min": {
+        "eur_per_kwh": "0.12784",
+        "local_start": "2024-11-05T02:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28981",
+        "local_start": "2024-11-06T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.183898",
+      "min": {
+        "eur_per_kwh": "0.136",
+        "local_start": "2024-11-06T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26506",
+        "local_start": "2024-11-07T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.180896",
+      "min": {
+        "eur_per_kwh": "0.13266",
+        "local_start": "2024-11-07T01:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24433",
+        "local_start": "2024-11-08T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.187929",
+      "min": {
+        "eur_per_kwh": "0.13649",
+        "local_start": "2024-11-08T00:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17735",
+        "local_start": "2024-11-09T17:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.152115",
+      "min": {
+        "eur_per_kwh": "0.12623",
+        "local_start": "2024-11-09T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1728",
+        "local_start": "2024-11-10T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.139885",
+      "min": {
+        "eur_per_kwh": "0.08151",
+        "local_start": "2024-11-10T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23457",
+        "local_start": "2024-11-11T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.158803",
+      "min": {
+        "eur_per_kwh": "0.05823",
+        "local_start": "2024-11-11T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25437",
+        "local_start": "2024-11-12T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.142655",
+      "min": {
+        "eur_per_kwh": "0.06121",
+        "local_start": "2024-11-12T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24823",
+        "local_start": "2024-11-13T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.178118",
+      "min": {
+        "eur_per_kwh": "0.13746",
+        "local_start": "2024-11-13T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26394",
+        "local_start": "2024-11-14T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.188048",
+      "min": {
+        "eur_per_kwh": "0.12984",
+        "local_start": "2024-11-14T00:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24701",
+        "local_start": "2024-11-15T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.192243",
+      "min": {
+        "eur_per_kwh": "0.14484",
+        "local_start": "2024-11-15T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.17996",
+        "local_start": "2024-11-16T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.153462",
+      "min": {
+        "eur_per_kwh": "0.13442",
+        "local_start": "2024-11-16T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19474",
+        "local_start": "2024-11-17T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.157974",
+      "min": {
+        "eur_per_kwh": "0.11933",
+        "local_start": "2024-11-17T13:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27771",
+        "local_start": "2024-11-18T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.202042",
+      "min": {
+        "eur_per_kwh": "0.16165",
+        "local_start": "2024-11-18T02:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25429",
+        "local_start": "2024-11-19T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.199526",
+      "min": {
+        "eur_per_kwh": "0.14773",
+        "local_start": "2024-11-19T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26465",
+        "local_start": "2024-11-20T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.173547",
+      "min": {
+        "eur_per_kwh": "0.08323",
+        "local_start": "2024-11-20T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.24863",
+        "local_start": "2024-11-21T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.160147",
+      "min": {
+        "eur_per_kwh": "0.08346",
+        "local_start": "2024-11-21T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27622",
+        "local_start": "2024-11-22T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.191058",
+      "min": {
+        "eur_per_kwh": "0.11548",
+        "local_start": "2024-11-22T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.21289",
+        "local_start": "2024-11-23T09:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.133931",
+      "min": {
+        "eur_per_kwh": "0.0656",
+        "local_start": "2024-11-23T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.11859",
+        "local_start": "2024-11-24T17:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.077699",
+      "min": {
+        "eur_per_kwh": "0.05699",
+        "local_start": "2024-11-24T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28665",
+        "local_start": "2024-11-25T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.165968",
+      "min": {
+        "eur_per_kwh": "0.05901",
+        "local_start": "2024-11-25T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26839",
+        "local_start": "2024-11-26T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.206620",
+      "min": {
+        "eur_per_kwh": "0.16284",
+        "local_start": "2024-11-26T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27651",
+        "local_start": "2024-11-27T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.203007",
+      "min": {
+        "eur_per_kwh": "0.15565",
+        "local_start": "2024-11-27T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2664",
+        "local_start": "2024-11-28T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.197873",
+      "min": {
+        "eur_per_kwh": "0.14754",
+        "local_start": "2024-11-28T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26885",
+        "local_start": "2024-11-29T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.195174",
+      "min": {
+        "eur_per_kwh": "0.13847",
+        "local_start": "2024-11-29T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-11-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18637",
+        "local_start": "2024-11-30T08:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.162854",
+      "min": {
+        "eur_per_kwh": "0.11719",
+        "local_start": "2024-11-30T11:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-01",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.22397",
+        "local_start": "2024-12-01T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.171830",
+      "min": {
+        "eur_per_kwh": "0.13797",
+        "local_start": "2024-12-01T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-02",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26858",
+        "local_start": "2024-12-02T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.211818",
+      "min": {
+        "eur_per_kwh": "0.17195",
+        "local_start": "2024-12-02T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-03",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27304",
+        "local_start": "2024-12-03T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.209631",
+      "min": {
+        "eur_per_kwh": "0.162",
+        "local_start": "2024-12-03T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-04",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29402",
+        "local_start": "2024-12-04T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.205671",
+      "min": {
+        "eur_per_kwh": "0.14918",
+        "local_start": "2024-12-04T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-05",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27188",
+        "local_start": "2024-12-05T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.207726",
+      "min": {
+        "eur_per_kwh": "0.16123",
+        "local_start": "2024-12-05T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-06",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20911",
+        "local_start": "2024-12-06T17:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.165166",
+      "min": {
+        "eur_per_kwh": "0.1298",
+        "local_start": "2024-12-06T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-07",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.14112",
+        "local_start": "2024-12-07T01:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.096120",
+      "min": {
+        "eur_per_kwh": "0.04715",
+        "local_start": "2024-12-07T11:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-08",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.13942",
+        "local_start": "2024-12-08T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.084494",
+      "min": {
+        "eur_per_kwh": "0.0469",
+        "local_start": "2024-12-08T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-09",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26827",
+        "local_start": "2024-12-09T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.152639",
+      "min": {
+        "eur_per_kwh": "0.06072",
+        "local_start": "2024-12-09T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-10",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29917",
+        "local_start": "2024-12-10T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.206898",
+      "min": {
+        "eur_per_kwh": "0.14503",
+        "local_start": "2024-12-10T02:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-11",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29712",
+        "local_start": "2024-12-11T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.207997",
+      "min": {
+        "eur_per_kwh": "0.14939",
+        "local_start": "2024-12-11T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-12",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.29018",
+        "local_start": "2024-12-12T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.215220",
+      "min": {
+        "eur_per_kwh": "0.14523",
+        "local_start": "2024-12-12T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-13",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2895",
+        "local_start": "2024-12-13T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.212444",
+      "min": {
+        "eur_per_kwh": "0.14868",
+        "local_start": "2024-12-13T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-14",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19338",
+        "local_start": "2024-12-14T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.169680",
+      "min": {
+        "eur_per_kwh": "0.13479",
+        "local_start": "2024-12-14T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-15",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18601",
+        "local_start": "2024-12-15T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.151817",
+      "min": {
+        "eur_per_kwh": "0.10692",
+        "local_start": "2024-12-15T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-16",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28638",
+        "local_start": "2024-12-16T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.195181",
+      "min": {
+        "eur_per_kwh": "0.1449",
+        "local_start": "2024-12-16T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-17",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.26263",
+        "local_start": "2024-12-17T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.194930",
+      "min": {
+        "eur_per_kwh": "0.14683",
+        "local_start": "2024-12-17T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-18",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25111",
+        "local_start": "2024-12-18T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.186907",
+      "min": {
+        "eur_per_kwh": "0.13965",
+        "local_start": "2024-12-18T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-19",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25079",
+        "local_start": "2024-12-19T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.157668",
+      "min": {
+        "eur_per_kwh": "0.05017",
+        "local_start": "2024-12-19T04:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-20",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.265",
+        "local_start": "2024-12-20T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.189386",
+      "min": {
+        "eur_per_kwh": "0.13412",
+        "local_start": "2024-12-20T03:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-21",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.18728",
+        "local_start": "2024-12-21T09:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.141742",
+      "min": {
+        "eur_per_kwh": "0.06119",
+        "local_start": "2024-12-21T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-22",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.1609",
+        "local_start": "2024-12-22T00:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.105768",
+      "min": {
+        "eur_per_kwh": "0.03916",
+        "local_start": "2024-12-22T15:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-23",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.25403",
+        "local_start": "2024-12-23T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.128207",
+      "min": {
+        "eur_per_kwh": "0.06128",
+        "local_start": "2024-12-23T01:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-24",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.23201",
+        "local_start": "2024-12-24T18:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.153932",
+      "min": {
+        "eur_per_kwh": "0.09516",
+        "local_start": "2024-12-24T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-25",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.19011",
+        "local_start": "2024-12-25T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.154232",
+      "min": {
+        "eur_per_kwh": "0.12582",
+        "local_start": "2024-12-25T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-26",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28429",
+        "local_start": "2024-12-26T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.207339",
+      "min": {
+        "eur_per_kwh": "0.16522",
+        "local_start": "2024-12-26T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-27",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.27667",
+        "local_start": "2024-12-27T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.204823",
+      "min": {
+        "eur_per_kwh": "0.16136",
+        "local_start": "2024-12-27T05:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20231",
+        "local_start": "2024-12-28T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.174353",
+      "min": {
+        "eur_per_kwh": "0.14112",
+        "local_start": "2024-12-28T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-29",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.20534",
+        "local_start": "2024-12-29T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.181736",
+      "min": {
+        "eur_per_kwh": "0.14079",
+        "local_start": "2024-12-29T12:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-30",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.28857",
+        "local_start": "2024-12-30T20:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.215021",
+      "min": {
+        "eur_per_kwh": "0.17622",
+        "local_start": "2024-12-30T14:00:00+01:00"
+      }
+    },
+    {
+      "date": "2024-12-31",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2749",
+        "local_start": "2024-12-31T19:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.210196",
+      "min": {
+        "eur_per_kwh": "0.16681",
+        "local_start": "2024-12-31T14:00:00+01:00"
+      }
+    }
+  ],
+  "generated_at_utc": "2026-11-10T20:20:42Z",
+  "schema": "energie.prices.index.v1",
+  "source": {
+    "attribution": "Fuente: Red Eléctrica (REData)",
+    "name": "Red Eléctrica de España (REData)",
+    "series": "PVPC, indicator 1001 (término de energía activa 2.0TD)",
+    "url": "https://www.ree.es/es/datos/apidatos"
+  },
+  "timezone": "Europe/Madrid",
+  "unit": "EUR/kWh",
+  "year": 2024
+}
