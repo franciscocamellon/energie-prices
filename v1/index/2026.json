@@ -4302,9 +4302,22 @@
         "eur_per_kwh": "0.17859",
         "local_start": "2026-11-27T14:00:00+01:00"
       }
+    },
+    {
+      "date": "2026-11-28",
+      "hours": 24,
+      "max": {
+        "eur_per_kwh": "0.2871",
+        "local_start": "2026-11-28T21:00:00+01:00"
+      },
+      "mean_eur_per_kwh": "0.213790",
+      "min": {
+        "eur_per_kwh": "0.15665",
+        "local_start": "2026-11-28T12:00:00+01:00"
+      }
     }
   ],
-  "generated_at_utc": "2026-11-26T19:30:54Z",
+  "generated_at_utc": "2026-11-27T19:30:57Z",
   "schema": "energie.prices.index.v1",
   "source": {
     "attribution": "Fuente: Red Eléctrica (REData)",
